@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=POSTAL 2
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/223470
+Icon=steam_icon_223470
+Terminal=false
+Type=Application
+Categories=Game;

@@ -1,0 +1,1972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/zoey/Pictures/macos-space-wallpaper.jpg" added="2023-04-30T11:33:24.766480Z" modified="2023-05-02T20:48:32.496564Z" visited="2023-04-30T11:33:24.766480Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-04-30T11:33:24.766481Z" count="1"/>
+          <bookmark:application name="com.google.Chrome" exec="&apos;gio open %u&apos;" modified="2023-04-30T11:33:25.006675Z" count="1"/>
+          <bookmark:application name="mugshot" exec="&apos;mugshot %u&apos;" modified="2023-05-02T20:48:32.496562Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Pictures" added="2023-04-30T11:35:52.839410Z" modified="2023-05-02T14:03:17.242546Z" visited="2023-04-30T11:35:52.839411Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T14:03:17.242542Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads" added="2023-04-30T11:44:32.294061Z" modified="2023-05-01T21:18:26.171998Z" visited="2023-04-30T11:44:32.294061Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T21:18:26.171996Z" count="14"/>
+          <bookmark:application name="com.google.Chrome" exec="&apos;gio open %u&apos;" modified="2023-04-30T11:44:56.681790Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-04-30T11:44:56.684029Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/Reversal-purple.tar.xz" added="2023-04-30T11:45:07.301639Z" modified="2023-04-30T11:45:07.301643Z" visited="2023-04-30T11:45:07.301639Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2023-04-30T11:45:07.301641Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/Midnight.tar.gz" added="2023-04-30T11:48:46.186449Z" modified="2023-04-30T11:48:46.186465Z" visited="2023-04-30T11:48:46.186451Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2023-04-30T11:48:46.186456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/papyrus-icon-theme-master.zip" added="2023-04-30T11:48:55.312515Z" modified="2023-04-30T11:48:55.312525Z" visited="2023-04-30T11:48:55.312516Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2023-04-30T11:48:55.312520Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/papyrus-icon-theme-master/Papyrus-Install-Package.tar.gz" added="2023-04-30T11:49:45.884527Z" modified="2023-04-30T11:49:45.884540Z" visited="2023-04-30T11:49:45.884529Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2023-04-30T11:49:45.884533Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/papyrus-icon-theme-master" added="2023-04-30T11:50:01.270717Z" modified="2023-04-30T11:50:01.270721Z" visited="2023-04-30T11:50:01.270718Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-30T11:50:01.270719Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/Midnight" added="2023-04-30T11:52:32.860650Z" modified="2023-04-30T11:52:32.860663Z" visited="2023-04-30T11:52:32.860653Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-30T11:52:32.860657Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/Midnight/xfwm4" added="2023-04-30T11:52:34.020487Z" modified="2023-04-30T11:52:34.020499Z" visited="2023-04-30T11:52:34.020489Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-30T11:52:34.020492Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.themes" added="2023-04-30T11:52:58.829224Z" modified="2023-05-02T15:46:58.531489Z" visited="2023-04-30T11:52:58.829225Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:46:58.531484Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.xsession-errors.old" added="2023-04-30T11:53:08.405108Z" modified="2023-04-30T11:53:08.405111Z" visited="2023-04-30T11:53:08.405108Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-trash"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-30T11:53:08.405109Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config" added="2023-04-30T11:53:12.421650Z" modified="2023-05-02T21:13:00.103142Z" visited="2023-04-30T11:53:12.421650Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T21:13:00.103138Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4" added="2023-04-30T11:53:14.771927Z" modified="2023-05-02T15:53:04.060501Z" visited="2023-04-30T11:53:14.771928Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:04.060495Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4/xfwm4" added="2023-04-30T11:53:16.451601Z" modified="2023-05-02T15:53:47.501708Z" visited="2023-04-30T11:53:16.451602Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:47.501703Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local" added="2023-04-30T11:53:43.102391Z" modified="2023-05-03T12:06:54.244211Z" visited="2023-04-30T11:53:43.102392Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-03T12:06:54.244207Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/share" added="2023-04-30T11:53:43.948408Z" modified="2023-05-03T12:06:55.997531Z" visited="2023-04-30T11:53:43.948410Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-03T12:06:55.997527Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/share/themes" added="2023-04-30T11:53:50.836159Z" modified="2023-04-30T11:53:50.836170Z" visited="2023-04-30T11:53:50.836160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-30T11:53:50.836164Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/ame" added="2023-04-30T12:21:55.344516Z" modified="2023-04-30T12:21:55.344519Z" visited="2023-04-30T12:21:55.344517Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="exo-desktop-item-edit" exec="&apos;exo-desktop-item-edit %u&apos;" modified="2023-04-30T12:21:55.344517Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/gnome-software" added="2023-04-30T12:22:11.242293Z" modified="2023-04-30T12:22:11.242295Z" visited="2023-04-30T12:22:11.242294Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="exo-desktop-item-edit" exec="&apos;exo-desktop-item-edit %u&apos;" modified="2023-04-30T12:22:11.242294Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Desktop" added="2023-04-30T13:08:28.227105Z" modified="2023-05-02T22:56:37.141872Z" visited="2023-04-30T13:08:28.227107Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T22:56:37.141868Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Desktop/Dolphin%20ISOs" added="2023-04-30T13:08:32.361946Z" modified="2023-04-30T22:29:45.041890Z" visited="2023-04-30T13:08:32.361947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T22:29:45.041888Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Desktop/Dolphin%20ISOs/Mario%20Kart%20Wii%20(USA)%20(En,Fr,Es)" added="2023-04-30T13:08:47.156709Z" modified="2023-04-30T13:08:47.156712Z" visited="2023-04-30T13:08:47.156709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T13:08:47.156710Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/find.csv" added="2023-04-30T16:54:09.428071Z" modified="2023-04-30T16:54:09.428083Z" visited="2023-04-30T16:54:09.428073Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T16:54:09.428077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/findPandD.txt" added="2023-04-30T17:01:46.848049Z" modified="2023-04-30T17:02:28.075626Z" visited="2023-04-30T17:01:46.848055Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T17:01:46.848063Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-30T17:02:28.075605Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/findmInPhotos.txt" added="2023-04-30T17:03:53.765813Z" modified="2023-04-30T17:28:38.997609Z" visited="2023-04-30T17:03:53.765813Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 1:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-30T17:28:38.997601Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home" added="2023-04-30T18:06:53.055973Z" modified="2023-05-02T15:46:51.394063Z" visited="2023-04-30T18:06:53.055975Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:46:51.394059Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey" added="2023-04-30T18:07:22.554770Z" modified="2023-05-02T22:56:40.234395Z" visited="2023-04-30T18:07:22.554772Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T22:56:40.234390Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Stone%20Temple%20Pilots/High%20Rise/Stone%20Temple%20Pilots%20-%20TopicBlack%20Heart.mp3" added="2023-04-30T18:09:32.452483Z" modified="2023-04-30T18:19:59.176900Z" visited="2023-04-30T18:09:32.452484Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-04-30T18:19:59.176898Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Gorillaz/Demon%20Days/Gorillaz%20-%20TopicEl%20Ma%C3%B1ana.mp3" added="2023-04-30T18:09:38.089732Z" modified="2023-04-30T18:15:34.834595Z" visited="2023-04-30T18:09:38.089733Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-04-30T18:15:34.834594Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Lena%20Raine/Celeste%20OST/Lena%20Raine%20-%20TopicAnxiety.mp3" added="2023-04-30T18:11:55.716377Z" modified="2023-04-30T18:11:55.716379Z" visited="2023-04-30T18:11:55.716378Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-04-30T18:11:55.716378Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/08-07-22_linux_infinity_13-27" added="2023-04-30T18:52:45.520209Z" modified="2023-04-30T18:55:03.638874Z" visited="2023-04-30T18:52:45.520210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T18:55:03.638870Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/08-07-22_linux_infinity_13-27/flashpoint" added="2023-04-30T18:52:49.917415Z" modified="2023-04-30T18:52:49.917430Z" visited="2023-04-30T18:52:49.917419Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T18:52:49.917424Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/08-07-22_linux_infinity_13-27/SaveData" added="2023-04-30T18:54:09.137483Z" modified="2023-04-30T18:54:09.137485Z" visited="2023-04-30T18:54:09.137483Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T18:54:09.137484Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/08-07-22_linux_infinity_13-27/SaveData/Flash" added="2023-04-30T18:54:11.644899Z" modified="2023-04-30T18:54:28.178689Z" visited="2023-04-30T18:54:11.644905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T18:54:28.178609Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/08-07-22_linux_infinity_13-27/Data" added="2023-04-30T18:56:34.921374Z" modified="2023-04-30T18:56:34.921385Z" visited="2023-04-30T18:56:34.921375Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T18:56:34.921379Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/08-07-22_linux_infinity_13-27/Data/Logos" added="2023-04-30T18:56:36.622991Z" modified="2023-04-30T18:57:04.791680Z" visited="2023-04-30T18:56:36.622992Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T18:57:04.791678Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/08-07-22_linux_infinity_13-27/Data/Images" added="2023-04-30T18:56:51.526665Z" modified="2023-04-30T18:56:51.526668Z" visited="2023-04-30T18:56:51.526666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T18:56:51.526667Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/08-07-22_linux_infinity_13-27/Data/Images/Logos" added="2023-04-30T18:56:52.582494Z" modified="2023-04-30T18:56:52.582498Z" visited="2023-04-30T18:56:52.582495Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T18:56:52.582496Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/08-07-22_linux_infinity_13-27/Data/Themes" added="2023-04-30T18:56:59.338079Z" modified="2023-04-30T18:56:59.338082Z" visited="2023-04-30T18:56:59.338080Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T18:56:59.338081Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Pictures/435353384c128693fae56206d5b9bbab_7431746262193556151.jpg" added="2023-04-30T19:06:58.432902Z" modified="2023-04-30T19:06:58.432919Z" visited="2023-04-30T19:06:58.432907Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="mugshot" exec="&apos;mugshot %u&apos;" modified="2023-04-30T19:06:58.432910Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/share/applications" added="2023-04-30T19:11:45.371075Z" modified="2023-04-30T19:11:45.371078Z" visited="2023-04-30T19:11:45.371076Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T19:11:45.371077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Desktop/Flashpoint.desktop" added="2023-04-30T19:11:55.079277Z" modified="2023-04-30T19:11:58.173510Z" visited="2023-04-30T19:11:55.079277Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-30T19:11:58.173504Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home" added="2023-04-30T21:07:59.337010Z" modified="2023-05-02T21:12:25.961108Z" visited="2023-04-30T21:07:59.337011Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T21:12:25.961102Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux" added="2023-04-30T21:08:01.106429Z" modified="2023-05-02T21:12:26.875804Z" visited="2023-04-30T21:08:01.106430Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T21:12:26.875800Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/Pictures" added="2023-04-30T21:08:02.695797Z" modified="2023-05-02T14:03:11.931644Z" visited="2023-04-30T21:08:02.695799Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T14:03:11.931637Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="computer:///" added="2023-04-30T21:08:11.585198Z" modified="2023-05-02T22:56:39.816997Z" visited="2023-04-30T21:08:11.585198Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T22:56:39.816993Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Desktop/Dolphin%20ISOs/Metroid%20Prime%20(USA)%20(Rev%202)" added="2023-04-30T22:29:56.614363Z" modified="2023-04-30T22:35:05.021680Z" visited="2023-04-30T22:29:56.614364Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T22:35:05.021675Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Desktop/Dolphin%20ISOs/Paper%20Mario%20-%20The%20Thousand-Year%20Door%20(USA)" added="2023-04-30T22:35:07.389081Z" modified="2023-04-30T22:35:07.389094Z" visited="2023-04-30T22:35:07.389083Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T22:35:07.389087Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Desktop/Dolphin%20ISOs/Paper%20Mario%20-%20The%20Thousand-Year%20Door%20(USA)/Vimm&apos;s%20Lair.txt" added="2023-04-30T22:35:08.602910Z" modified="2023-04-30T22:35:13.634886Z" visited="2023-04-30T22:35:08.602912Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T22:35:08.602915Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-30T22:35:13.634881Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Pictures/on%20fire!!!.png" added="2023-04-30T23:38:57.117235Z" modified="2023-04-30T23:38:57.117242Z" visited="2023-04-30T23:38:57.117238Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2023-04-30T23:38:57.117239Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Downloads/corepure64" added="2023-05-01T21:18:37.963356Z" modified="2023-05-01T21:32:31.717078Z" visited="2023-05-01T21:18:37.963358Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T21:18:37.963363Z" count="1"/>
+          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2023-05-01T21:32:31.717047Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/Documents" added="2023-05-01T22:31:04.047340Z" modified="2023-05-01T22:31:04.047356Z" visited="2023-05-01T22:31:04.047342Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:31:04.047347Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/Documents/Installer%20Scripts" added="2023-05-01T22:31:07.448188Z" modified="2023-05-01T22:31:20.240847Z" visited="2023-05-01T22:31:07.448190Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:31:20.240843Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/Documents/Backup%20Script" added="2023-05-01T22:31:10.304077Z" modified="2023-05-01T22:31:10.304093Z" visited="2023-05-01T22:31:10.304079Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:31:10.304084Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/Documents/rrtgrgrvgrt" added="2023-05-01T22:31:16.553071Z" modified="2023-05-01T22:31:16.553083Z" visited="2023-05-01T22:31:16.553072Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:31:16.553076Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/Documents/YT%20Files" added="2023-05-01T22:31:18.689101Z" modified="2023-05-01T22:31:18.689113Z" visited="2023-05-01T22:31:18.689102Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:31:18.689106Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/Documents/FC2%20key" added="2023-05-01T22:31:22.378730Z" modified="2023-05-01T22:31:24.279831Z" visited="2023-05-01T22:31:22.378731Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-01T22:31:24.279826Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/Documents/Year%2012%20Documents" added="2023-05-01T22:31:25.456845Z" modified="2023-05-01T22:31:25.456850Z" visited="2023-05-01T22:31:25.456846Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:31:25.456847Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/Desktop" added="2023-05-01T22:31:31.423137Z" modified="2023-05-01T22:31:31.423153Z" visited="2023-05-01T22:31:31.423139Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:31:31.423144Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/Downloads" added="2023-05-01T22:31:35.303602Z" modified="2023-05-02T14:02:48.267247Z" visited="2023-05-01T22:31:35.303604Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T14:02:48.267242Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music" added="2023-05-01T22:40:53.376822Z" modified="2023-05-01T23:00:45.610832Z" visited="2023-05-01T22:40:53.376823Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T23:00:45.610829Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Deftones" added="2023-05-01T22:40:59.976753Z" modified="2023-05-01T22:40:59.976765Z" visited="2023-05-01T22:40:59.976755Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:40:59.976759Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/AFI" added="2023-05-01T22:43:39.810162Z" modified="2023-05-01T22:43:39.810165Z" visited="2023-05-01T22:43:39.810163Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:43:39.810164Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/AFI/DecemberUnderground" added="2023-05-01T22:43:41.649667Z" modified="2023-05-01T22:43:41.649670Z" visited="2023-05-01T22:43:41.649668Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:43:41.649668Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2023-05-01T22:48:21.007066Z" modified="2023-05-01T22:56:14.019043Z" visited="2023-05-01T22:48:21.007068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:56:14.019039Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="recent:///" added="2023-05-01T22:48:50.815958Z" modified="2023-05-01T22:48:52.138322Z" visited="2023-05-01T22:48:50.815959Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:48:52.138319Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///" added="2023-05-01T22:48:51.557625Z" modified="2023-05-01T22:48:51.557630Z" visited="2023-05-01T22:48:51.557626Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:48:51.557627Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_0220631a/" added="2023-05-01T22:54:43.356513Z" modified="2023-05-01T22:56:42.787643Z" visited="2023-05-01T22:54:43.356513Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;ktelnetservice5 %u&apos;" modified="2023-05-01T22:54:43.356514Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:56:42.787641Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_0220631a/SD%20card" added="2023-05-01T22:56:17.689799Z" modified="2023-05-01T22:56:43.940192Z" visited="2023-05-01T22:56:17.689800Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:56:43.940187Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_0220631a/SD%20card/Music" added="2023-05-01T22:56:47.622428Z" modified="2023-05-01T22:56:47.622430Z" visited="2023-05-01T22:56:47.622429Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T22:56:47.622430Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Depeche%20Mode" added="2023-05-01T23:00:22.586572Z" modified="2023-05-01T23:00:22.586575Z" visited="2023-05-01T23:00:22.586573Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T23:00:22.586574Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Depeche%20Mode/The%20Singles%2086-98" added="2023-05-01T23:00:23.331375Z" modified="2023-05-01T23:00:23.331378Z" visited="2023-05-01T23:00:23.331376Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T23:00:23.331377Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Deftones/White%20Pony/Deftones%20-%20TopicBack%20to%20School%20(Mini%20Maggit).mp3" added="2023-05-02T12:03:16.200943Z" modified="2023-05-02T15:26:45.175228Z" visited="2023-05-02T12:03:16.200944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T15:26:45.175226Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/Pictures/Wallpapers" added="2023-05-02T14:02:40.572836Z" modified="2023-05-02T14:02:40.572847Z" visited="2023-05-02T14:02:40.572837Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T14:02:40.572841Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/NIN/The%20Downward%20Spiral/Nine%20Inch%20Nails%20-%20TopicA%20Warm%20Place.mp3" added="2023-05-02T15:25:38.211247Z" modified="2023-05-02T15:25:38.211251Z" visited="2023-05-02T15:25:38.211248Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T15:25:38.211249Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Deftones/White%20Pony/Deftones%20-%20TopicRx%20Queen.mp3" added="2023-05-02T15:34:29.996520Z" modified="2023-05-02T15:34:34.898484Z" visited="2023-05-02T15:34:29.996532Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T15:34:34.898477Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Deftones/White%20Pony/Deftones%20-%20TopicStreet%20Carp.mp3" added="2023-05-02T15:36:04.831995Z" modified="2023-05-02T17:06:33.063021Z" visited="2023-05-02T15:36:04.831996Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:06:33.063017Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Three%20Days%20Grace/One-X/Three%20Days%20Grace%20-%20TopicAnimal%20I%20Have%20Become.mp3" added="2023-05-02T15:40:05.064565Z" modified="2023-05-02T15:40:05.064568Z" visited="2023-05-02T15:40:05.064565Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T15:40:05.064566Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Three%20Days%20Grace/One-X/Three%20Days%20Grace%20-%20TopicTime%20of%20Dying.mp3" added="2023-05-02T15:43:57.018666Z" modified="2023-05-02T15:43:57.018669Z" visited="2023-05-02T15:43:57.018666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T15:43:57.018667Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.icons" added="2023-05-02T15:47:02.271058Z" modified="2023-05-02T15:54:20.427649Z" visited="2023-05-02T15:47:02.271059Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:54:20.427645Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/System%20Of%20A%20Down/Hypnotize/System%20Of%20A%20Down%20-%20TopicStealing%20Society.mp3" added="2023-05-02T15:47:03.695168Z" modified="2023-05-02T15:49:27.597228Z" visited="2023-05-02T15:47:03.695168Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T15:49:27.597227Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.steam" added="2023-05-02T15:47:22.452282Z" modified="2023-05-02T15:47:22.452294Z" visited="2023-05-02T15:47:22.452284Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:47:22.452288Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.steam/steam" added="2023-05-02T15:47:24.412487Z" modified="2023-05-02T15:47:24.412498Z" visited="2023-05-02T15:47:24.412488Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:47:24.412492Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.steam/root" added="2023-05-02T15:47:31.316791Z" modified="2023-05-02T15:47:31.316803Z" visited="2023-05-02T15:47:31.316793Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:47:31.316797Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.steam/bin" added="2023-05-02T15:47:43.572858Z" modified="2023-05-02T15:47:43.572870Z" visited="2023-05-02T15:47:43.572860Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:47:43.572863Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.steam/bin/steam-runtime" added="2023-05-02T15:47:45.557873Z" modified="2023-05-02T15:47:45.557888Z" visited="2023-05-02T15:47:45.557875Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:47:45.557880Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.cache" added="2023-05-02T15:48:01.906808Z" modified="2023-05-02T15:48:01.906820Z" visited="2023-05-02T15:48:01.906810Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:48:01.906813Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.cache/xfce4" added="2023-05-02T15:48:05.416073Z" modified="2023-05-02T15:48:05.416077Z" visited="2023-05-02T15:48:05.416074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:48:05.416075Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.cache/xfce4/clipman" added="2023-05-02T15:48:06.731475Z" modified="2023-05-02T15:48:06.731487Z" visited="2023-05-02T15:48:06.731477Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:48:06.731481Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.cache/xfce4/clipman/textsrc" added="2023-05-02T15:48:07.449647Z" modified="2023-05-02T15:51:15.395314Z" visited="2023-05-02T15:48:07.449648Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:48:07.449651Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-02T15:51:15.395309Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/NIN/The%20Fragile/Nine%20Inch%20Nails%20-%20TopicPlease.mp3" added="2023-05-02T15:51:01.970737Z" modified="2023-05-02T15:51:01.970740Z" visited="2023-05-02T15:51:01.970738Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T15:51:01.970738Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.cache/xfce4/notifyd" added="2023-05-02T15:51:24.758129Z" modified="2023-05-02T15:51:24.758140Z" visited="2023-05-02T15:51:24.758130Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:51:24.758134Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.cache/xfce4/notifyd/icons" added="2023-05-02T15:51:26.741214Z" modified="2023-05-02T15:51:26.741225Z" visited="2023-05-02T15:51:26.741215Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:51:26.741219Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.cache/xfce4/notifyd/icons/b182982ceaa8f2d45250a967cd56d219b1fc55dd.png" added="2023-05-02T15:51:46.950837Z" modified="2023-05-02T15:51:46.950848Z" visited="2023-05-02T15:51:46.950838Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:51:46.950842Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.cache/xfce4/notifyd/log.sqlite" added="2023-05-02T15:52:10.917315Z" modified="2023-05-02T15:52:10.917319Z" visited="2023-05-02T15:52:10.917316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:52:10.917317Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.cache/xfce4/appfinder" added="2023-05-02T15:52:14.539701Z" modified="2023-05-02T15:52:14.539703Z" visited="2023-05-02T15:52:14.539701Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:52:14.539702Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.minecraft" added="2023-05-02T15:52:33.921066Z" modified="2023-05-02T15:52:33.921069Z" visited="2023-05-02T15:52:33.921067Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:52:33.921067Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.var" added="2023-05-02T15:52:41.683440Z" modified="2023-05-02T15:52:41.683452Z" visited="2023-05-02T15:52:41.683442Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:52:41.683446Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.var/app" added="2023-05-02T15:52:42.455781Z" modified="2023-05-02T15:52:42.455785Z" visited="2023-05-02T15:52:42.455782Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:52:42.455783Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/mangohud" added="2023-05-02T15:52:50.458797Z" modified="2023-05-02T15:52:50.458808Z" visited="2023-05-02T15:52:50.458799Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:52:50.458802Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/mangohud/MangoHud" added="2023-05-02T15:52:58.012701Z" modified="2023-05-02T15:52:58.012713Z" visited="2023-05-02T15:52:58.012702Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:52:58.012706Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4/panel" added="2023-05-02T15:53:05.877322Z" modified="2023-05-02T15:53:05.877335Z" visited="2023-05-02T15:53:05.877324Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:05.877327Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4/panel/launcher-58" added="2023-05-02T15:53:07.740092Z" modified="2023-05-02T15:53:07.740104Z" visited="2023-05-02T15:53:07.740094Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:07.740098Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4/panel/launcher-58/168285914312.desktop" added="2023-05-02T15:53:09.113507Z" modified="2023-05-02T15:53:09.113517Z" visited="2023-05-02T15:53:09.113508Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:09.113516Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4/panel/launcher-57" added="2023-05-02T15:53:13.393249Z" modified="2023-05-02T15:53:26.965282Z" visited="2023-05-02T15:53:13.393249Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:26.965277Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4/panel/launcher-1" added="2023-05-02T15:53:17.221423Z" modified="2023-05-02T15:53:17.221437Z" visited="2023-05-02T15:53:17.221424Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:17.221429Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4/panel/launcher-1/16828598901.desktop" added="2023-05-02T15:53:18.192182Z" modified="2023-05-02T15:53:18.192215Z" visited="2023-05-02T15:53:18.192183Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:18.192214Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4/panel/launcher-2" added="2023-05-02T15:53:21.269485Z" modified="2023-05-02T15:53:21.269497Z" visited="2023-05-02T15:53:21.269487Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:21.269491Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4/panel/launcher-2/16828620031.desktop" added="2023-05-02T15:53:22.366088Z" modified="2023-05-02T15:53:22.366099Z" visited="2023-05-02T15:53:22.366089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:22.366099Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4/panel/launcher-57/168285903111.desktop" added="2023-05-02T15:53:27.556448Z" modified="2023-05-02T15:53:27.556461Z" visited="2023-05-02T15:53:27.556449Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:27.556460Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4/panel/whiskermenu-32.rc" added="2023-05-02T15:53:32.966545Z" modified="2023-05-02T15:53:32.966556Z" visited="2023-05-02T15:53:32.966547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.kde.kxmlguirc"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:32.966551Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4/desktop" added="2023-05-02T15:53:51.670389Z" modified="2023-05-02T15:53:51.670400Z" visited="2023-05-02T15:53:51.670391Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:51.670394Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.config/xfce4/Verve" added="2023-05-02T15:53:55.333520Z" modified="2023-05-02T15:53:55.333531Z" visited="2023-05-02T15:53:55.333522Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:53:55.333525Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/state" added="2023-05-02T15:54:13.341364Z" modified="2023-05-02T15:54:13.341376Z" visited="2023-05-02T15:54:13.341366Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:54:13.341369Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/state/wireplumber" added="2023-05-02T15:54:14.501883Z" modified="2023-05-02T15:54:14.501895Z" visited="2023-05-02T15:54:14.501884Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T15:54:14.501888Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Dead%20By%20Sunrise/Out%20Of%20Ashes/Dead%20By%20Sunrise%20-%20TopicEnd%20of%20the%20World.mp3" added="2023-05-02T15:54:32.951345Z" modified="2023-05-02T15:54:32.951347Z" visited="2023-05-02T15:54:32.951345Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T15:54:32.951345Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/System%20Of%20A%20Down/Toxicity/System%20Of%20A%20Down%20-%20TopicPsycho.mp3" added="2023-05-02T15:58:29.491967Z" modified="2023-05-02T15:58:29.491969Z" visited="2023-05-02T15:58:29.491967Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T15:58:29.491968Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Sick%20Puppies/Tri-Polar/Sick%20Puppies%20-%20TopicSurvive.mp3" added="2023-05-02T16:02:15.761923Z" modified="2023-05-02T16:02:15.761930Z" visited="2023-05-02T16:02:15.761924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T16:02:15.761924Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Queens%20Of%20The%20Stone%20Age/Songs%20For%20The%20Deaf/Queens%20Of%20The%20Stone%20Age%20-%20TopicFirst%20It%20Giveth.mp3" added="2023-05-02T16:05:28.653590Z" modified="2023-05-02T16:55:13.730923Z" visited="2023-05-02T16:05:28.653590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T16:55:13.730921Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/NIN/The%20Downward%20Spiral/Nine%20Inch%20Nails%20-%20TopicMr.%20Self%20Destruct.mp3" added="2023-05-02T16:58:32.352824Z" modified="2023-05-02T16:58:32.352827Z" visited="2023-05-02T16:58:32.352824Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T16:58:32.352825Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Three%20Days%20Grace/One-X/Three%20Days%20Grace%20-%20TopicNever%20Too%20Late.mp3" added="2023-05-02T17:03:03.373256Z" modified="2023-05-02T17:03:03.373259Z" visited="2023-05-02T17:03:03.373256Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:03:03.373257Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/King%20Glizzard%20And%20The%20Lizard%20Wizard/Butterfly%203000/King%20Gizzard%20&amp;%20the%20Lizard%20Wizard%20-%20TopicInterior%20People.mp3" added="2023-05-02T17:09:14.964094Z" modified="2023-05-02T17:09:14.964097Z" visited="2023-05-02T17:09:14.964095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:09:14.964095Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Soundgarden/Superunknown/Soundgarden%20-%20Topic4th%20Of%20July.mp3" added="2023-05-02T17:14:30.321381Z" modified="2023-05-02T17:17:29.879899Z" visited="2023-05-02T17:14:30.321381Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:17:29.879898Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Audioslave/Audioslave/Audioslave%20-%20TopicSet%20It%20Off.mp3" added="2023-05-02T17:21:16.008787Z" modified="2023-05-02T17:21:16.008789Z" visited="2023-05-02T17:21:16.008787Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:21:16.008788Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Sick%20Puppies/Tri-Polar/Sick%20Puppies%20-%20TopicRiptide%20(Edit).mp3" added="2023-05-02T17:25:39.483010Z" modified="2023-05-02T17:25:39.483012Z" visited="2023-05-02T17:25:39.483010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:25:39.483011Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/King%20Glizzard%20And%20The%20Lizard%20Wizard/Infest%20The%20Rats%20Nest/King%20Gizzard%20&amp;%20The%20Lizard%20Wizard%20-%20Venusian%202.mp3" added="2023-05-02T17:28:39.984539Z" modified="2023-05-02T17:28:39.984550Z" visited="2023-05-02T17:28:39.984540Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:28:39.984544Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/System%20Of%20A%20Down/Mezmerize/System%20Of%20A%20Down%20-%20TopicQuestion!.mp3" added="2023-05-02T17:31:24.622336Z" modified="2023-05-02T17:31:24.622339Z" visited="2023-05-02T17:31:24.622336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:31:24.622337Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Soundgarden/Superunknown/Soundgarden%20-%20TopicFell%20On%20Black%20Days.mp3" added="2023-05-02T17:34:45.502134Z" modified="2023-05-02T17:34:45.502137Z" visited="2023-05-02T17:34:45.502134Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:34:45.502135Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/System%20Of%20A%20Down/Mezmerize/System%20Of%20A%20Down%20-%20TopicThis%20Cocaine%20Makes%20Me%20Feel%20Like%20I&apos;m%20On%20This%20Song.mp3" added="2023-05-02T17:39:28.781383Z" modified="2023-05-02T17:39:28.781385Z" visited="2023-05-02T17:39:28.781383Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:39:28.781384Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/NIN/With%20Teeth/Nine%20Inch%20Nails%20-%20TopicThe%20Hand%20That%20Feeds.mp3" added="2023-05-02T17:41:37.337500Z" modified="2023-05-02T17:41:37.337503Z" visited="2023-05-02T17:41:37.337500Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:41:37.337501Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/PJ%20Harvey/Is%20This%20Desire/PJ%20Harvey%20-%20TopicThe%20Wind.mp3" added="2023-05-02T17:45:09.333360Z" modified="2023-05-02T17:45:09.333362Z" visited="2023-05-02T17:45:09.333360Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:45:09.333361Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Mushroomhead/XII/Mushroomhead%20-%20TopicThe%20Dream%20Is%20Over.mp3" added="2023-05-02T17:49:11.108616Z" modified="2023-05-02T17:49:11.108619Z" visited="2023-05-02T17:49:11.108616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:49:11.108617Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Three%20Days%20Grace/One-X/Three%20Days%20Grace%20-%20TopicRiot.mp3" added="2023-05-02T17:52:26.733188Z" modified="2023-05-02T17:52:26.733190Z" visited="2023-05-02T17:52:26.733188Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:52:26.733189Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Audioslave/Audioslave/Audioslave%20-%20TopicGasoline.mp3" added="2023-05-02T17:55:54.617686Z" modified="2023-05-02T17:55:54.617689Z" visited="2023-05-02T17:55:54.617686Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T17:55:54.617687Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Mushroomhead/XII/Mushroomhead%20-%20TopicDestroy%20The%20World%20Around%20Me.mp3" added="2023-05-02T18:00:34.144812Z" modified="2023-05-02T18:00:34.144815Z" visited="2023-05-02T18:00:34.144812Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T18:00:34.144813Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Queens%20Of%20The%20Stone%20Age/Era%20Vulgaris/Queens%20Of%20The%20Stone%20Age%20-%20Topic3&apos;s%20&amp;%207&apos;s.mp3" added="2023-05-02T18:08:55.999631Z" modified="2023-05-02T18:08:55.999633Z" visited="2023-05-02T18:08:55.999631Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T18:08:55.999632Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/King%20Glizzard%20And%20The%20Lizard%20Wizard/Infest%20The%20Rats%20Nest/King%20Gizzard%20&amp;%20The%20Lizard%20Wizard%20-%20Mars%20For%20The%20Rich.mp3" added="2023-05-02T18:12:30.258402Z" modified="2023-05-02T18:12:30.258404Z" visited="2023-05-02T18:12:30.258402Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T18:12:30.258403Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/King%20Glizzard%20And%20The%20Lizard%20Wizard/Omnium%20Gatherum/King%20Gizzard%20&amp;%20the%20Lizard%20Wizard%20-%20TopicThe%20Grim%20Reaper.mp3" added="2023-05-02T18:16:42.265258Z" modified="2023-05-02T18:18:31.207845Z" visited="2023-05-02T18:16:42.265259Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T18:18:31.207840Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Audioslave/Audioslave/Audioslave%20-%20TopicShow%20Me%20How%20to%20Live.mp3" added="2023-05-02T18:20:13.800871Z" modified="2023-05-02T18:20:13.800876Z" visited="2023-05-02T18:20:13.800872Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T18:20:13.800873Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Queens%20Of%20The%20Stone%20Age/Era%20Vulgaris/Queens%20Of%20The%20Stone%20Age%20-%20TopicSuture%20Up%20Your%20Future.mp3" added="2023-05-02T18:24:51.842543Z" modified="2023-05-02T18:24:51.842545Z" visited="2023-05-02T18:24:51.842543Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T18:24:51.842544Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/King%20Glizzard%20And%20The%20Lizard%20Wizard/Omnium%20Gatherum/King%20Gizzard%20&amp;%20the%20Lizard%20Wizard%20-%20TopicPresumptuous.mp3" added="2023-05-02T18:29:29.423466Z" modified="2023-05-02T18:29:29.423469Z" visited="2023-05-02T18:29:29.423466Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T18:29:29.423467Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Motograter/Motograter/Motograter%20-%20TopicDown%20(Main%20Version).mp3" added="2023-05-02T18:34:23.128045Z" modified="2023-05-02T19:00:02.680204Z" visited="2023-05-02T18:34:23.128045Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T19:00:02.680200Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/PJ%20Harvey/Is%20This%20Desire/PJ%20Harvey%20-%20TopicThe%20River.mp3" added="2023-05-02T18:37:52.830150Z" modified="2023-05-02T19:03:32.675147Z" visited="2023-05-02T18:37:52.830150Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T19:03:32.675146Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/NIN/The%20Fragile/Nine%20Inch%20Nails%20-%20TopicSomewhat%20Damaged.mp3" added="2023-05-02T19:08:25.970137Z" modified="2023-05-02T19:08:25.970139Z" visited="2023-05-02T19:08:25.970137Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T19:08:25.970138Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/The%20Handsome%20Devil/The%20Heart%20Goes%20To%20Heaven,%20and%20Head%20goes%20to%20Hell/That%20Handsome%20Devil%20-%20TopicThe%20U%20&amp;%20I%20in%20Suicide.mp3" added="2023-05-02T19:12:58.004144Z" modified="2023-05-02T19:12:58.004147Z" visited="2023-05-02T19:12:58.004145Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T19:12:58.004145Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/King%20Glizzard%20And%20The%20Lizard%20Wizard/L.W/King%20Gizzard%20&amp;%20The%20Lizard%20Wizard%20-%20Supreme%20Ascendancy.mp3" added="2023-05-02T19:17:02.539103Z" modified="2023-05-02T19:39:37.891560Z" visited="2023-05-02T19:17:02.539104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T19:39:37.891559Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Depeche%20Mode/The%20Singles%2086-98/Depeche%20Mode%20-%20TopicStripped.mp3" added="2023-05-02T19:20:42.895536Z" modified="2023-05-02T19:43:18.062640Z" visited="2023-05-02T19:20:42.895536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T19:43:18.062638Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/NIN/With%20Teeth/Nine%20Inch%20Nails%20-%20TopicThe%20Line%20Begins%20To%20Blur.mp3" added="2023-05-02T19:25:15.726304Z" modified="2023-05-02T19:47:08.959563Z" visited="2023-05-02T19:25:15.726305Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T19:47:08.959562Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/PJ%20Harvey/Is%20This%20Desire/PJ%20Harvey%20-%20TopicA%20Perfect%20Day%20Elise.mp3" added="2023-05-02T19:29:05.968856Z" modified="2023-05-02T19:29:05.968860Z" visited="2023-05-02T19:29:05.968857Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T19:29:05.968858Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Music/Depeche%20Mode/The%20Singles%2086-98/Depeche%20Mode%20-%20TopicPersonal%20Jesus.mp3" added="2023-05-02T19:32:12.355629Z" modified="2023-05-02T19:35:52.732649Z" visited="2023-05-02T19:32:12.355630Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-02T19:35:52.732648Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Pictures/UwU/IMG_6981.JPG" added="2023-05-02T20:45:08.197972Z" modified="2023-05-02T20:45:08.197975Z" visited="2023-05-02T20:45:08.197972Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="mugshot" exec="&apos;mugshot %u&apos;" modified="2023-05-02T20:45:08.197973Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Pictures/Aoki-Ume-Ryuko-Matoi-Header-20140901.webp" added="2023-05-02T20:48:01.579734Z" modified="2023-05-02T20:48:01.579742Z" visited="2023-05-02T20:48:01.579736Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="mugshot" exec="&apos;mugshot %u&apos;" modified="2023-05-02T20:48:01.579739Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Pictures/a-beatriz-p-2.jpg" added="2023-05-02T20:48:17.189665Z" modified="2023-05-02T20:48:17.189668Z" visited="2023-05-02T20:48:17.189665Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="mugshot" exec="&apos;mugshot %u&apos;" modified="2023-05-02T20:48:17.189666Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/share/xfce4" added="2023-05-02T20:51:42.489214Z" modified="2023-05-02T21:14:07.283122Z" visited="2023-05-02T20:51:42.489216Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T21:14:07.283118Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/share/xfce4/helpers" added="2023-05-02T20:51:43.206897Z" modified="2023-05-02T20:51:43.206914Z" visited="2023-05-02T20:51:43.206900Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T20:51:43.206906Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/share/xfce4/helpers/custom-WebBrowser.desktop" added="2023-05-02T20:51:45.701064Z" modified="2023-05-02T20:51:45.701076Z" visited="2023-05-02T20:51:45.701065Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T20:51:45.701076Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/share/vulkan" added="2023-05-02T20:51:51.625686Z" modified="2023-05-02T20:51:51.625701Z" visited="2023-05-02T20:51:51.625688Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T20:51:51.625692Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/share/vulkan/implicit_layer.d" added="2023-05-02T20:51:52.228750Z" modified="2023-05-02T20:51:52.228754Z" visited="2023-05-02T20:51:52.228750Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T20:51:52.228751Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/.cache" added="2023-05-02T21:12:30.743027Z" modified="2023-05-02T21:12:30.743042Z" visited="2023-05-02T21:12:30.743029Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T21:12:30.743034Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/.config" added="2023-05-02T21:12:35.231825Z" modified="2023-05-02T21:12:35.231837Z" visited="2023-05-02T21:12:35.231827Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T21:12:35.231830Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/.config/KDE" added="2023-05-02T21:12:37.763253Z" modified="2023-05-02T21:12:37.763256Z" visited="2023-05-02T21:12:37.763254Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T21:12:37.763255Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/.config/plasma-workspace" added="2023-05-02T21:12:43.071881Z" modified="2023-05-02T21:12:43.071893Z" visited="2023-05-02T21:12:43.071882Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T21:12:43.071886Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/.config/plasma-workspace/shutdown" added="2023-05-02T21:12:44.215607Z" modified="2023-05-02T21:12:44.215619Z" visited="2023-05-02T21:12:44.215608Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T21:12:44.215612Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/.config/neofetch" added="2023-05-02T21:12:47.794888Z" modified="2023-05-02T21:12:47.794891Z" visited="2023-05-02T21:12:47.794888Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T21:12:47.794890Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/zoey/6b26cf64-1b6d-4baf-b2e1-115ed19a31f4/home/zoeylinux/.config/neofetch/config.conf" added="2023-05-02T21:12:48.661782Z" modified="2023-05-02T21:12:54.423141Z" visited="2023-05-02T21:12:48.661783Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-02T21:12:54.423135Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents" added="2023-05-02T21:21:24.683458Z" modified="2023-05-03T12:05:39.116930Z" visited="2023-05-02T21:21:24.683459Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-03T12:05:39.116929Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/ZoeXFCE" added="2023-05-02T21:21:42.243321Z" modified="2023-05-03T12:07:19.626393Z" visited="2023-05-02T21:21:42.243322Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-03T12:07:19.626388Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/ZoeXFCE/packagesneeded3" added="2023-05-02T21:33:04.495185Z" modified="2023-05-02T21:33:08.096446Z" visited="2023-05-02T21:33:04.495186Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T21:33:04.495190Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-02T21:33:08.096441Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/ZoeXFCE/packagesneeded4" added="2023-05-02T21:33:18.563191Z" modified="2023-05-02T21:33:23.752326Z" visited="2023-05-02T21:33:18.563192Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 48:14;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-02T21:33:23.752321Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/ZoeXFCE/packagesneeded.txt" added="2023-05-02T21:33:48.331615Z" modified="2023-05-02T21:35:58.797007Z" visited="2023-05-02T21:33:48.331615Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:9;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-02T21:35:58.797003Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/ZoeXFCE/packagesneededBACKUP.txt" added="2023-05-02T21:34:48.032768Z" modified="2023-05-02T22:58:25.221275Z" visited="2023-05-02T21:34:48.032769Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 40:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-02T22:58:25.221265Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/ZoeXFCE/packagesneeded1.txt" added="2023-05-02T21:35:42.234080Z" modified="2023-05-02T23:10:13.166477Z" visited="2023-05-02T21:35:42.234081Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-02T23:10:13.166472Z" count="14"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T23:10:09.630142Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/ZoeXFCE/packagesneeded2.txt" added="2023-05-02T23:02:46.394295Z" modified="2023-05-02T23:23:07.744204Z" visited="2023-05-02T23:02:46.394296Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T23:10:55.857345Z" count="2"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-02T23:23:07.744203Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/ZoeXFCE/packagesneeded2.txy" added="2023-05-02T23:13:12.492357Z" modified="2023-05-02T23:13:27.678346Z" visited="2023-05-02T23:13:12.492357Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:406;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-02T23:13:27.678342Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/ZoeXFCE/ufhwueihfu.txt" added="2023-05-02T23:22:58.879209Z" modified="2023-05-02T23:23:21.399157Z" visited="2023-05-02T23:22:58.879210Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-02T23:23:21.399152Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/ZoeXFCE/packages.txt" added="2023-05-02T23:25:30.546427Z" modified="2023-05-02T23:44:17.864128Z" visited="2023-05-02T23:25:30.546428Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-02T23:44:17.864125Z" count="6"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T23:43:18.839267Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/ZoeXFCE/getpackages.sh" added="2023-05-02T23:26:09.073840Z" modified="2023-05-02T23:35:42.323618Z" visited="2023-05-02T23:26:09.073841Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T23:35:42.323614Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/ZoeXFCE/ubuntuminiinstaller.sh" added="2023-05-02T23:30:26.294166Z" modified="2023-05-02T23:44:56.237131Z" visited="2023-05-02T23:30:26.294167Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T23:44:56.237125Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/ZoeXFCE/flatpaks.txt" added="2023-05-02T23:38:10.457654Z" modified="2023-05-02T23:43:17.920695Z" visited="2023-05-02T23:38:10.457655Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-02T23:43:17.920691Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/todo" added="2023-05-02T23:48:18.158315Z" modified="2023-05-02T23:48:18.158357Z" visited="2023-05-02T23:48:18.158322Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-02T23:48:18.158332Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/Documents/todo.txt" added="2023-05-02T23:48:26.059664Z" modified="2023-05-03T12:06:29.395521Z" visited="2023-05-02T23:48:26.059666Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 1:53;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-03T12:06:29.039456Z" count="3"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-03T12:06:29.395520Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.gnupg" added="2023-05-03T12:06:40.194742Z" modified="2023-05-03T12:06:40.194745Z" visited="2023-05-03T12:06:40.194743Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-03T12:06:40.194743Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.gnupg/private-keys-v1.d" added="2023-05-03T12:06:41.182039Z" modified="2023-05-03T12:06:41.182052Z" visited="2023-05-03T12:06:41.182041Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-03T12:06:41.182045Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/share/icons" added="2023-05-03T12:06:58.229551Z" modified="2023-05-03T12:06:58.229566Z" visited="2023-05-03T12:06:58.229553Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-03T12:06:58.229558Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/share/icons/hicolor" added="2023-05-03T12:06:58.981373Z" modified="2023-05-03T12:06:58.981388Z" visited="2023-05-03T12:06:58.981375Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-03T12:06:58.981380Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/share/icons/hicolor/256x256" added="2023-05-03T12:07:00.974224Z" modified="2023-05-03T12:07:00.974239Z" visited="2023-05-03T12:07:00.974226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-03T12:07:00.974231Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zoey/.local/share/icons/hicolor/256x256/apps" added="2023-05-03T12:07:01.702082Z" modified="2023-05-03T12:07:01.702097Z" visited="2023-05-03T12:07:01.702084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-03T12:07:01.702089Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,32 @@
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-power-manager:2069): libnotify-WARNING **: 14:10:25.547: Failed to connect to proxy
+
+(xfce4-power-manager:2069): xfce4-power-manager-WARNING **: 14:10:25.557: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:2069): WARNING **: 14:10:25.560: No outputs have backlight property
+
+(xfce4-power-manager:2069): xfce4-power-manager-WARNING **: 14:10:25.575: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+
+** (xfce4-screensaver:2094): WARNING **: 14:10:25.631: screensaver already running in this session
+xfce4-notifyd-Message: 14:10:25.662: Your sqlite library does not support OFFSET/LIMIT with DELETE; falling back to less-efficient deletion method
+
+** (wrapper-2.0:2179): WARNING **: 14:10:25.865: No outputs have backlight property
+
+(wrapper-2.0:2110): Gtk-WARNING **: 14:10:25.958: Negative content width -2 (allocation 16, extents 9x9) while allocating gadget (node entry, owner GtkEntry)
+Gtk-Message: 14:11:04.017: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 14:11:04.017: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 14:11:04.017: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:11:04.018: Failed to load module "canberra-gtk-module"
+[2:2:0430/141104.885335:ERROR:nacl_fork_delegate_linux.cc(313)] Bad NaCl helper startup ack (0 bytes)
+Gtk-Message: 14:11:05.191: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 14:11:05.191: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 14:11:05.191: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:11:05.191: Failed to load module "canberra-gtk-module"
+[2:2:0430/141106.234109:ERROR:nacl_browser.cc(287)] Failed to open NaCl IRT file "/app/extra/nacl_irt_x86_64.nexe": -4
+thunar-volman: Unsupported USB device type "usb".
+thunar-volman: Unsupported input device type "/dev/input/event15".
+thunar-volman: Unsupported input device type "/dev/input/js0".
+thunar-volman: Unsupported input device type "(null)".
+thunar-volman: Unsupported USB device type "usbhid".

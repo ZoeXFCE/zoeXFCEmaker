@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Peaky Blinders: Mastermind
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1013310
+Icon=steam_icon_1013310
+Terminal=false
+Type=Application
+Categories=Game;

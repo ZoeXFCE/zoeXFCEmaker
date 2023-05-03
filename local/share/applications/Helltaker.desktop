@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Helltaker
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1289310
+Icon=steam_icon_1289310
+Terminal=false
+Type=Application
+Categories=Game;

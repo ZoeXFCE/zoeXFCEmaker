@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Chrome Web Store Payments
+Exec=flatpak 'run' '--command=/app/bin/chrome' 'com.google.Chrome' '--profile-directory=Profile 1' '--app-id=nmmhkkegccagdldgiimedpiccmgmieda'
+Icon=chrome-nmmhkkegccagdldgiimedpiccmgmieda-Profile_1
+NoDisplay=true
+StartupWMClass=crx_nmmhkkegccagdldgiimedpiccmgmieda
+X-Flatpak-Part-Of=com.google.Chrome
+TryExec=/var/lib/flatpak/exports/bin/com.google.Chrome

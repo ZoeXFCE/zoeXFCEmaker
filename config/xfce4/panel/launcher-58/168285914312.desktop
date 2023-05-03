@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name[en_GB]=Software
+Name=Software
+Comment[en_GB]=Add, remove or update software on this computer
+Comment=Add, remove or update software on this computer
+Icon=org.gnome.Software
+Exec=gnome-software %U
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;System;PackageManager;
+Keywords[en_GB]=Updates;Upgrade;Sources;Repositories;Preferences;Install;Uninstall;Program;Software;App;Store;
+Keywords=Updates;Upgrade;Sources;Repositories;Preferences;Install;Uninstall;Program;Software;App;Store;
+StartupNotify=true
+MimeType=x-scheme-handler/appstream;
+X-GNOME-UsesNotifications=true
+DBusActivatable=true
+X-Purism-FormFactor=Workstation;Mobile;
+X-XFCE-Source=file:///usr/share/applications/org.gnome.Software.desktop

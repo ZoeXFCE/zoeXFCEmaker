@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Garfield Kart
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/362930
+Icon=steam_icon_362930
+Terminal=false
+Type=Application
+Categories=Game;

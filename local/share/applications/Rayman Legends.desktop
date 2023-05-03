@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Rayman Legends
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/242550
+Icon=steam_icon_242550
+Terminal=false
+Type=Application
+Categories=Game;

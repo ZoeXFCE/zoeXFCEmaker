@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GUILTY GEAR XX ACCENT CORE PLUS R
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/348550
+Icon=steam_icon_348550
+Terminal=false
+Type=Application
+Categories=Game;

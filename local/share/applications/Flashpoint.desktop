@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Flashpoint
+Comment=Play Old Adobe Flash, Unity and OpenGL Web Games
+Exec=/home/zoey/Downloads/08-07-22_linux_infinity_13-27/flashpoint 
+Icon=flash
+Path=
+Terminal=false
+StartupNotify=false

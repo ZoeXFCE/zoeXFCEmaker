@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Far Cry 2
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/19900
+Icon=steam_icon_19900
+Terminal=false
+Type=Application
+Categories=Game;

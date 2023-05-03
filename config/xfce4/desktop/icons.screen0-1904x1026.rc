@@ -1,0 +1,27 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/home/zoey/Desktop/Dolphin ISOs]
+row=4
+col=0
+
+[/home/zoey/Desktop/Google Chrome.desktop]
+row=3
+col=0
+
+[/home/zoey/Desktop/Dolphin Emulator.desktop]
+row=5
+col=0
+
+[/home/zoey/Desktop/Software.desktop]
+row=2
+col=0
+
+[/]
+row=0
+col=0
+
+[/home/zoey]
+row=1
+col=0
+

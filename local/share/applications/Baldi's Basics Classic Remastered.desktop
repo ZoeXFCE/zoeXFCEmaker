@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Baldi's Basics Classic Remastered
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1712830
+Icon=steam_icon_1712830
+Terminal=false
+Type=Application
+Categories=Game;

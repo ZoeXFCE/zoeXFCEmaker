@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1121910
+Icon=steam_icon_1121910
+Terminal=false
+Type=Application
+Categories=Game;

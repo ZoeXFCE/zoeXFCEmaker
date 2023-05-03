@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=DARK NIGHT WITH FLOPPA
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/2229990
+Icon=steam_icon_2229990
+Terminal=false
+Type=Application
+Categories=Game;
