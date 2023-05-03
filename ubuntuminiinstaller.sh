@@ -24,4 +24,4 @@ mkdir ~/.themes
 mv themes ~/.themes
 
 sudo systemctl disable lightdm.service
-mv startxarlogin.sh /etc/profile.d/startxatlogin.sh
+mv startxatlogin.sh /etc/profile.d/startxatlogin.sh
