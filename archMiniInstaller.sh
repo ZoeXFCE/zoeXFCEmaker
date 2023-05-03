@@ -1,4 +1,4 @@
-sudo apt install $(cat packages.txt) -y
+sudo pacman -S $(cat packages.txt) --noconfirm
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 flatpak install -y $(cat flatpaks.txt) -y
 sudo cp download.sh /usr/bin/download.sh
