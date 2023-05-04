@@ -41,3 +41,6 @@ cd ~/Downloads
 7z x 08-07-22_linux_infinity_13-27.7z -o08-07-22_linux_infinity_13-27
 cd 08-07-22_linux_infinity_13-27
 ./pull.sh
+
+cd
+echo exec xfce4-session > .xinitrc
